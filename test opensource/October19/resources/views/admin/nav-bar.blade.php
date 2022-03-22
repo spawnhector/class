@@ -1,0 +1,2 @@
+
+@livewire('nav-bar')

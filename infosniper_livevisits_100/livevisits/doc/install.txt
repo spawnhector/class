@@ -1,0 +1,40 @@
+Infosniper Live Visits
+Description:     Live Tracking of Website Visitors
+Script-Version:  1.0.0
+Release Date:    2008/10/26
+This file is part of Infosniper Livevisits.
+Official web site and latest version: http://www.infosniper.net
+Copyright © 2008 by Infosniper.net - All Rights Reserved.
+
+INSTALLATION INSTRUCTIONS
+-------------------------
+Please follow the instructions to install the LiveVisits Script.
+Detailed information can be found within the desired source files
+
+* Edit /config/infosniper_livevisits_config.php
+  * Enter your MySQL configuration data in the lines 30-33
+  * Set the login password in line 36
+  * Enter the personal Infosniper Query Key in line 39
+  * Enter the language of the results in line 46
+  * Enter your domains in line 51
+
+* Edit /trackingcode.php
+  * Edit the folder the Livevisits Script will be installed into, in line 5
+
+* Edit /index.php
+  * Edit the folder the Livevisits Script will be installed into, in line 24
+
+* Upload all files and folders into the choosen folder on your server
+
+* Copy the whole code of the /trackingcode.php into the files that should be tracked
+  * If you want to use HTML files to be tracked, use a .htaccess file in your domain root folder containing this:
+  AddType application/x-httpd-php .php .html .htm
+
+* Load /index.php and login to start
+
+USEFUL INFORMATION
+-------------------
+* All database tables will be created automatically
+* All database tables will be optimized automatically
+* Please check the credits left regularly (right bottom corner)
+* Tested in Firefox, Safari and Google Chrome Browsers, IE sometimes produces display errors (?!?)

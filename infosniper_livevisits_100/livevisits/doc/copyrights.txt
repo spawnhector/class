@@ -1,0 +1,14 @@
+Filename                 - Copyright       - Website
+--------------------------------------------------------------------------------------
+/layout/calendar/*.*     - Mihai Bazon     - http://www.bazon.net/mishoo
+/lib/bonus.php           - BBClone         - http://www.bbclone.de
+/lib/browser.php         - BBClone         - http://www.bbclone.de
+/lib/os.php              - BBClone         - http://www.bbclone.de
+/lib/robot.php           - BBClone         - http://www.bbclone.de
+/images-pattern/*.*      - BBClone         - http://www.bbclone.de
+/images/browser.png      - Everaldo Coelho - http://www.everaldo.com/
+/images/chart.png        - Mark James      - http://www.famfamfam.com/lab/icons/silk/
+/images/documentinfo.png - Everaldo Coelho - http://www.everaldo.com/
+/images/logout.png       - Alexandre Moore - http://nuovext.pwsp.net/
+/images/reload.png       - Paolino         - http://www.paolinoland.it/
+/images/viewmag.png      - Everaldo Coelho - http://www.everaldo.com/

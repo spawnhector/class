@@ -1,0 +1,35 @@
+1.0.0
+-----
+* Date Interval Selection added
+* Login/Logout Panel added
+* Clear Settings Button added
+* Sitenames Stats added
+* Referer Stats added
+* Robots Stats added
+* Countries Stats added
+* States Stats added
+* Cities Stats added
+* SQL Table Definitions optimized to reduce overload
+* SQL Queries optimized to reduce overload
+* index.html and .htaccess files added to all directories
+  to prevent deep linking and accessing confident information
+* Exception Domains array added to exclude inside referers
+* Credits left function added
+
+0.9.0
+-----
+* IP on Google Maps Popup added
+* Google Search for Provider added
+* Browser Stats added
+* Operating System Stats added
+* Default Setting Showing only Visitors added
+* Reload Settings optimized
+* Graphical Icons added
+
+0.8.0
+-----
+* IP on Google Maps Popup added
+* Google Search for Provider added
+* Selection of Visitors/Robots added
+* Linking of Browser added
+* Linking of Operating System added

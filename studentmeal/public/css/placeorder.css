@@ -1,0 +1,97 @@
+.showOrder{
+    position: absolute;
+    bottom: 9px;
+    left: 224px;
+    background: linear-gradient( 
+333deg, #babdc5, transparent);
+    height: 300px;
+    width: 222px;
+    overflow-x: hidden;
+}
+/* .showOrder::-webkit-scrollbar {
+    visibility: hidden;
+} */
+
+.orderCost{
+    position: absolute;
+    bottom: 9px;
+    left: 463px;
+    text-align: left;
+    width: 222px;
+    height: 174px;
+    /* border: 1px solid grey; */
+    background: linear-gradient( 
+359deg, #e2dfdf26, transparent);
+}
+
+.total-item{
+    width: 105px;
+    float: left;
+}
+
+.txt-left{
+    text-align: left;
+}
+.txt-right{
+    text-align: right;
+}
+
+/* increase/decrease */
+.drpdwn form {
+    width: 85px;
+    display: flex;
+    text-align: center;
+  }
+  
+.drpdwn .value-button {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 123px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 3px 0;
+    background: #eee;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+.drpdwn .value-button:hover {
+    cursor: pointer;
+  }
+  
+.drpdwn form #decrease {
+    margin-right: 0px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+.drpdwn form #increase {
+    margin-left: 0px;
+    border-radius: 0 8px 8px 0;
+  }
+  
+.drpdwn form #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+.drpdwn input#number {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 43px;
+    height: 30px;
+  }
+  
+.drpdwn input[type=number]::-webkit-inner-spin-button,
+.drpdwn input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }

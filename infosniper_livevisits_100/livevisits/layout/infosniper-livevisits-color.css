@@ -1,0 +1,60 @@
+body { background:#FEFFFF; }
+
+#content {
+ border-left:1px solid #1695A3;
+ border-right:1px solid #1695A3;
+}
+
+h1,h2 {
+  color:#1695A3;
+}
+
+.detail  {
+  border:2px solid #EAE2B1;
+  background: #F7F5F5;
+}
+
+select { font-size:11px; }
+
+.detail-td1  { color:#333333; }
+.detail-td2  { color:#333333; background: #EBE9DC; }
+
+.detail_link:link, .detail_link:visited, .detail_link:active { color: #1D5E86; }
+.detail_link:hover, .detail_link:focus                       { color: #1D5E86;}
+
+a:link    { color:#333333; }
+a:visited { color:#333333; }
+a:active  { color:#333333; }
+a:hover   { color:#333333; }
+
+a.stats:link    { color:#F3F78B; }
+a.stats:visited { color:#F3F78B; }
+a.stats:active  { color:#F3F78B; }
+a.stats:hover   { color:#FFFFFF; }
+
+a.whatentries:link    { color:#1695A3; }
+a.whatentries:visited { color:#1695A3; }
+a.whatentries:active  { color:#1695A3; }
+a.whatentries:hover   { color:#1695A3; }
+
+.statsbar  { background:#FFFFFF; }
+
+.content-day    { background:#1695A3; }
+.content-day-td { color:#FFFFFF; }
+
+.content-row21       { background:#FFFFFF; }
+.content-row21:hover { background:#EAE2B1; }
+
+.content-row22       { background:#EDEBEB; }
+.content-row22:hover { background:#EAE2B1; }
+
+.content-header { color:#FFFFFF; background:#1695A3; border-bottom:1px solid #FFFFFF; }
+
+.countries {
+  border:2px solid #EAE2B1;
+  background: #F7F5F5;
+}
+
+.content-td0 { color:#FFFFFF; background:#1695A3; border-bottom:1px solid #FFFFFF; border-top:1px solid #FFFFFF; }
+.content-td1 { color:#333333; background:#D4D3D3; }
+.content-td2 { color:#333333; }

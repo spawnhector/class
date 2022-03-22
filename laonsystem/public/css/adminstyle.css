@@ -1,0 +1,23 @@
+.pointer{
+    cursor: pointer;
+}
+.between-icon{
+    position: relative;
+    top: 70px;
+    text-align: center;
+}
+.search-app{
+    position: absolute;
+    top: -20px;
+    z-index: 1;
+}
+.search-app-row:hover{
+    color: black;
+}
+.divider-y{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 1.5rem;
+    width: 1px;
+    background-color: whitesmoke;
+}
